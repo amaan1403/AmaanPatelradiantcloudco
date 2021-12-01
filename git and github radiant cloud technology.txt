@@ -1,4 +1,5 @@
-      we now have distributed version control system
+   mamking a change over here
+   we now have distributed version control system
      earlier we used to have centralized version control system
 git is usually used to save your things and version of the software it is one of the powerfool tools to ull a request push a requets branching and merging.
 for eg lets say you have made snapchat and the client says remove some features from the version 1.0 and you have updated the version to 2.3 for eg, so how would you get back to think which exact features should be deleted for the same the client says add the features from version 1.4 so hw would u be able to do that you have to write a text file what process have you done or you might be using dropbox and copying code analyzing things well that's a lot of stuff you are doing we have got you covered says git.
